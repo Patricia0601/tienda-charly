@@ -1,0 +1,11 @@
+{
+  "name": "tienda-charly",
+  "version": "1.0.0",
+  "description": "Tienda charly",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Patricia Aguilar",
+  "license": "ISC"
+}
